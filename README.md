@@ -6,9 +6,9 @@ And also, Rails is an opinionated framework.
 That is why Rails has an appreciable number of pitfalls.
 
 This repository is a workbench of making "Rails Development Patterns", a pattern language for Rails development.
-With the pattern language, we can present our experience and knowledge in a structured form and make it a tool everybody can use and follow predecessors.
+With the pattern language, we can describe our experience and knowledge in a structured form and make it a tool everybody can use and follow predecessors.
 
-The first draft is [posted](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/proceedings2015/AsianPLoP_2015_submission_3.pdf) to [AsianPLoP](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/) 2015 by [@irohiroki](https://github.com/irohiroki).
+The first draft is [submitted](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/proceedings2015/AsianPLoP_2015_submission_3.pdf) to [AsianPLoP](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/) 2015 by [@irohiroki](https://github.com/irohiroki).
 
 Feel free to contact [@irohiroki](https://github.com/irohiroki) if you're interested in this activity.
 
