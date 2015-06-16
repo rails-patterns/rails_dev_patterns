@@ -24,3 +24,9 @@ Railsはそのユーザ／開発者の多さやプラグインの豊富さ、ア
 最初の草稿は[@irohiroki](https://github.com/irohiroki)によって[AsianPLoP](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/) 2015に[投稿されました](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/proceedings2015/AsianPLoP_2015_submission_3.pdf)。
 
 この活動に興味があったら気軽に[@irohiroki](https://github.com/irohiroki)までご連絡ください。
+
+
+パターンの適用順序
+------------------
+
+![Sequence of patterns](images/sequence.png)
