@@ -30,3 +30,12 @@ Railsはそのユーザ／開発者の多さやプラグインの豊富さ、ア
 ------------------
 
 ![Sequence of patterns](images/sequence.png)
+
+パターンもくじ
+--------------
+
+1. [公式情報](markdown/official_information.md)
+1. Rails Way
+1. コードの節制
+1. 公然のSQL
+1. レスポンシブテスト
