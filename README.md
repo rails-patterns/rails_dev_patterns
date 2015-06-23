@@ -38,4 +38,4 @@ Railsはそのユーザ／開発者の多さやプラグインの豊富さ、ア
 1. [レールに乗る](markdown/riding_rails.md)
 1. コードの節制
 1. 公然のSQL
-1. レスポンシブテスト
+1. [テストの費用対効果](markdown/cost-effective_test.md)
