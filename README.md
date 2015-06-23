@@ -35,7 +35,7 @@ Railsはそのユーザ／開発者の多さやプラグインの豊富さ、ア
 --------------
 
 1. [公式情報](markdown/official_information.md)
-1. Rails Way
+1. [レールに乗る](markdown/riding_rails.md)
 1. コードの節制
 1. 公然のSQL
 1. レスポンシブテスト
