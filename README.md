@@ -41,3 +41,8 @@ Railsはそのユーザ／開発者の多さやプラグインの豊富さ、ア
 1. [コードの収まり](markdown/code_placement.md)
 1. [公然のSQL](markdown/not-so-secret_sql.md)
 1. [テストの費用対効果](markdown/cost-effective_test.md)
+
+資料
+----
+
+[パターンの種となったアイデアや図など](https://drive.google.com/folderview?id=0B2P2CCVcm4DrNDlVTkEwR1ZvQ28&usp=sharing)。
