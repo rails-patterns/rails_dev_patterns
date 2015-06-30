@@ -10,7 +10,8 @@ With the pattern language, we can describe our experience and knowledge in a str
 
 The first draft is [submitted](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/proceedings2015/AsianPLoP_2015_submission_3.pdf) to [AsianPLoP](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/) 2015 by [@irohiroki](https://github.com/irohiroki).
 
-Feel free to contact [@irohiroki](https://github.com/irohiroki) if you're interested in this activity.
+Feel free to text us at [Gitter](https://gitter.im/rails-patterns) if you're interested in this activity.
+And of course, pull requests are always welcome!
 
 - - -
 
@@ -23,7 +24,8 @@ Railsはそのユーザ／開発者の多さやプラグインの豊富さ、ア
 
 最初の草稿は[@irohiroki](https://github.com/irohiroki)によって[AsianPLoP](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/) 2015に[投稿されました](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/proceedings2015/AsianPLoP_2015_submission_3.pdf)。
 
-この活動に興味があったら気軽に[@irohiroki](https://github.com/irohiroki)までご連絡ください。
+この活動に興味があったら気軽に[Gitter](https://gitter.im/rails-patterns)でメッセージください。
+もちろんpull requestも歓迎です！
 
 
 パターンの適用順序
