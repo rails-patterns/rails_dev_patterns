@@ -28,7 +28,10 @@ Rails Wayの範囲はデータベース層からプレゼンテーション層�
 解決方法
 --------
 
-他のフレームワークでは自由に選択できる設計や実装であっても、Rails Wayがないか確認し、可能な限り従う。
+他のフレームワークでは自由に選択できる設計や実装であっても、下の資料などを参照してRails Wayがないか確認し、可能な限り従う。
+
+* [Rails Guides](http://guides.rubyonrails.org/)
+* [RailsによるアジャイルWebアプリケーション開発](http://www.amazon.co.jp/dp/4274068668)
 
 例
 --
@@ -55,8 +58,6 @@ Assets Pipelineはウェブアプリケーションに必須の機構ではな�
 
 HTTPリクエストやDBアクセスを契機としたトランザクションの前後のコールバックには典型的な使い方がある。
 例えば、認証にはトランザクションの前のコールバックを利用する。
-
-その他のRails Wayは、[Rails Guides](http://guides.rubyonrails.org/)や[RailsによるアジャイルWebアプリケーション開発](http://www.amazon.co.jp/dp/4274068668)に記載されている。
 
 結果
 ----
